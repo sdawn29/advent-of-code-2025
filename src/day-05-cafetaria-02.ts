@@ -34,5 +34,3 @@ const uniqueCount = merged.reduce(
 );
 
 console.log("Day 05 - Cafetaria - Part 02:", uniqueCount);
-
-console.log("Day 05 - Cafetaria - Part 02:", uniqueCount);
